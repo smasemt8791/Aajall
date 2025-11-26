@@ -1,0 +1,21 @@
+{
+  "name": "آجال - مواعيد القضاء",
+  "short_name": "آجال",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/Aajal.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/Aajal.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
